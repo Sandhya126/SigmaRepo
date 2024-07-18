@@ -1,2 +1,2 @@
 # SigmaRepo
-This is a Sigma Repo
+This is a Sigma gitHub demo
